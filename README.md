@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./asilimia-logo.png" alt="w3tec" width="400" />
-</p>
 
-<h1 align="center">Payment management system by Asilimia</h1>
 
 <p align="center">
   <a href="https://david-dm.org/w3tecch/express-typescript-boilerplate">
